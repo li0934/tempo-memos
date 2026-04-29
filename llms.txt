@@ -17,6 +17,7 @@ Index of Japanese articles (*.md)
 
   - README.md — overview and conventions (Japanese), repository root
   - docs/subscriptions.md — Subscriptions on Tempo (Japanese summary)
+  - docs/access-keys.md — Tempo access keys (Japanese memo)
 
 Official references (verify facts here when unsure)
   https://tempo.xyz/
