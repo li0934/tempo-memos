@@ -1,0 +1,28 @@
+# tempo-memos — machine-readable hints
+
+Audience
+  Notes about Tempo (payments-focused Layer 1 blockchain). Written primarily for a Japanese-speaking audience (e.g. X Spaces prep).
+
+Human-readable overview
+  README.md (Japanese) — project description and editorial rules.
+
+Agent checklist (Cursor / automation)
+  AGENTS.md (English) — imperative rules when editing this repo; keeps README narrative short.
+
+Article language
+  All memo bodies live under docs/ as Japanese Markdown (*.md). Filenames are descriptive English-style slugs (e.g. docs/subscriptions.md, docs/payment-lanes.md). Optional subfolders under docs/ are allowed.
+
+Index of Japanese articles (*.md)
+  When you add a memo, append its relative path from repo root here so tools can discover it.
+
+  - README.md — overview and conventions (Japanese), repository root
+  - docs/subscriptions.md — Subscriptions on Tempo (Japanese summary)
+
+Official references (verify facts here when unsure)
+  https://tempo.xyz/
+  https://github.com/tempoxyz
+
+Assistant notes
+  Do not invent Tempo protocol details; cite official docs or leave gaps.
+  New memo files belong under docs/*.md and must be listed under “Index of Japanese articles” above.
+  Create memo filenames from topic keywords (hyphenated English is fine); write body text in Japanese.
