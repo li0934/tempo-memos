@@ -4,6 +4,7 @@
 
 ## 記事一覧
 
+- [docs/enterprise-payments.md](docs/enterprise-payments.md) — エンタープライズ向け決済の新機能（総合）
 - [docs/access-keys.md](docs/access-keys.md) — Tempo Transactions のアクセスキー（Access Keys）
 - [docs/mpp-sessions.md](docs/mpp-sessions.md) — MPP Sessions（AI エージェント向け従量課金・マイクロペイメント）
 - [docs/subscriptions.md](docs/subscriptions.md) — Tempo 上のサブスクリプション（periodic spending limits）

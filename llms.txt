@@ -20,6 +20,7 @@ Index of Japanese articles (*.md)
   - docs/access-keys.md — Tempo access keys (Japanese memo)
   - docs/virtual-addresses.md — Virtual addresses for deposits (Japanese summary)
   - docs/mpp-sessions.md — MPP Sessions for AI agent micropayments (Japanese summary)
+  - docs/enterprise-payments.md — Enterprise payments overview (access keys + virtual addresses, Japanese summary)
 
 Official references (verify facts here when unsure)
   https://tempo.xyz/
