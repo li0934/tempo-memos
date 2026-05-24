@@ -2,6 +2,13 @@
 
 ブロックチェーン **Tempo** に関するメモ・調査ノートを置くリポジトリです。**日本人向け**を前提に、**README と記事本文は日本語** で運用します（X スペースなどでの話すネタ整理にも使う想定）。ルートの **llms.txt** のみ、ツール互換のため **英語** で書く。
 
+## 記事一覧
+
+- [docs/access-keys.md](docs/access-keys.md) — Tempo Transactions のアクセスキー（Access Keys）
+- [docs/mpp-sessions.md](docs/mpp-sessions.md) — MPP Sessions（AI エージェント向け従量課金・マイクロペイメント）
+- [docs/subscriptions.md](docs/subscriptions.md) — Tempo 上のサブスクリプション（periodic spending limits）
+- [docs/virtual-addresses.md](docs/virtual-addresses.md) — バーチャルアドレス（ステーブルコイン入金向け）
+
 ## 参照リンク
 
 - [Tempo](https://tempo.xyz/) — 決済向けに設計されたレイヤー1などの概要
