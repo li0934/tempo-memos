@@ -21,6 +21,7 @@ Index of Japanese articles (*.md)
   - docs/virtual-addresses.md — Virtual addresses for deposits (Japanese summary)
   - docs/mpp-sessions.md — MPP Sessions for AI agent micropayments (Japanese summary)
   - docs/enterprise-payments.md — Enterprise payments overview (access keys + virtual addresses, Japanese summary)
+  - docs/cbbtc-on-tempo.md — cbBTC on Tempo via Chainlink CCIP (Japanese summary)
 
 Official references (verify facts here when unsure)
   https://tempo.xyz/

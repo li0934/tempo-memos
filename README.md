@@ -9,6 +9,7 @@
 - [docs/mpp-sessions.md](docs/mpp-sessions.md) — MPP Sessions（AI エージェント向け従量課金・マイクロペイメント）
 - [docs/subscriptions.md](docs/subscriptions.md) — Tempo 上のサブスクリプション（periodic spending limits）
 - [docs/virtual-addresses.md](docs/virtual-addresses.md) — バーチャルアドレス（ステーブルコイン入金向け）
+- [docs/cbbtc-on-tempo.md](docs/cbbtc-on-tempo.md) — cbBTC on Tempo（Chainlink CCIP 経由）
 
 ## 参照リンク
 
