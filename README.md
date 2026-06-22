@@ -7,6 +7,7 @@
 - [docs/enterprise-payments.md](docs/enterprise-payments.md) — エンタープライズ向け決済の新機能（総合）
 - [docs/access-keys.md](docs/access-keys.md) — Tempo Transactions のアクセスキー（Access Keys）
 - [docs/mpp-sessions.md](docs/mpp-sessions.md) — MPP Sessions（AI エージェント向け従量課金・マイクロペイメント）
+- [docs/mpp-credits.md](docs/mpp-credits.md) — MPP Credits（カードでエージェントに fund）
 - [docs/subscriptions.md](docs/subscriptions.md) — Tempo 上のサブスクリプション（periodic spending limits）
 - [docs/virtual-addresses.md](docs/virtual-addresses.md) — バーチャルアドレス（ステーブルコイン入金向け）
 - [docs/cbbtc-on-tempo.md](docs/cbbtc-on-tempo.md) — cbBTC on Tempo（Chainlink CCIP 経由）
@@ -24,7 +25,7 @@
 
 ## llms.txt
 
-ルートの **[llms.txt](llms.txt)** は本文を **英語** で書く（ツール・クローラとの互換のため）。内容はこのリポジトリの要約と、**日本語記事（`.md`）へのリンク一覧**（`docs/` 以下の相対パス）。記事を追加したら **llms.txt の一覧も更新する**。
+ルートの **[llms.txt](llms.txt)** は本文を **英語** で書く（ツール・クローラとの互換のため）。内容はこのリポジトリの要約と、**日本語記事（`.md`）へのリンク一覧**（`docs/` 以下の相対パス）。記事を追加・リネームしたら **上記「記事一覧」と llms.txt の両方** を更新する。
 
 ## エージェント（AI）向け
 
